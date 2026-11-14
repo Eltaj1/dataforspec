@@ -9,11 +9,11 @@ This repository contains a limited public sample of annotated football images in
 - **Format:** COCO
 - **Classes:** Player, Ball, Referee
 - **Purpose:** Object detection and computer vision experiments
-- **CREATIVE COMMON LICENSE**
+- **Creative Commons License**
 
 ## Private Dataset
 
-Our main dataset is significantly larger and contains higher-quality, extensively annotated football images.
+Our main dataset is significantly larger and contains higher-quality, extensively annotated football images. For research inquiries or potential dataset access, contact help@speculasports.com
 
 It is maintained privately with dedicated folders:
 
